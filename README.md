@@ -1,2 +1,2 @@
 # test-version
-in readme v3
+in readme v2
